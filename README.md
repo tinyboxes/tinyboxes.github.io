@@ -1,3 +1,5 @@
+# tinyboxes.github.io
+
 # Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
